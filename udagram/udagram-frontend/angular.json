@@ -39,8 +39,7 @@
                 "input": "src/global.scss"
               }
             ],
-            "scripts": [],
-            "es5BrowserSupport": true
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -181,7 +180,8 @@
     }
   },
   "cli": {
-    "defaultCollection": "@ionic/angular-toolkit"
+    "defaultCollection": "@ionic/angular-toolkit",
+    "analytics": "292dbc51-cab3-420e-92c7-fb280b82f95d"
   },
   "schematics": {
     "@ionic/angular-toolkit:component": {
