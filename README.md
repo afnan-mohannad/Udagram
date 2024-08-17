@@ -50,11 +50,11 @@ Start the server
   npm run start
 ```
 
-```diff
-- Don't Forget to set your ".env" File, and open the server.ts from udacity-api, and make sure the database are works fine
-```
 ## RDS 
 database-1.cxws42y8aivb.us-east-1.rds.amazonaws.com
+
+## FRONTEND
+http://afnan-udagram.s3-website-us-east-1.amazonaws.com/
 
 ## Elastic Beanstalk
 http://udagram-api-env.eba-4yrp2c27.us-east-1.elasticbeanstalk.com/
