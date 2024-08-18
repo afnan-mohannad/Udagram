@@ -8,7 +8,7 @@ eb setenv S3_BUCKET_FRONTEND= $S3_BUCKET_FRONTEND
 eb setenv AWS_REGION=$AWS_DEFAULT_REGION
 eb setenv AWS_PROFILE=$AWS_PROFILE
 eb setenv JWT_SECRET=$JWT_SECRET
-eb setenv URL=http://udagram-api-dev.us-east-1.elasticbeanstalk.com/
+eb setenv URL=$URL
 eb setenv AWS_DEFAULT_REGION=$AWS_DEFAULT_REGION
 eb setenv profile=$profile
 eb setenv PORT=$PORT USERNAME=$USERNAME
